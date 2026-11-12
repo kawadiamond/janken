@@ -6,7 +6,7 @@
 
 
 ## ③アプリのデプロイURL
-(https://kawadiamond.github.io/janken/
+https://kawadiamond.github.io/janken/
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 
